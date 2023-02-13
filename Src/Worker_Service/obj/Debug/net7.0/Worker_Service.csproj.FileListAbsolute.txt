@@ -44,3 +44,4 @@ D:\soheyl\Git\GitProject\Worker_Service_Dotnet\Src\Worker_Service\obj\Debug\net7
 D:\soheyl\Git\GitProject\Worker_Service_Dotnet\Src\Worker_Service\obj\Debug\net7.0\Worker_Service.pdb
 D:\soheyl\Git\GitProject\Worker_Service_Dotnet\Src\Worker_Service\obj\Debug\net7.0\Worker_Service.genruntimeconfig.cache
 D:\soheyl\Git\GitProject\Worker_Service_Dotnet\Src\Worker_Service\obj\Debug\net7.0\ref\Worker_Service.dll
+D:\soheyl\Git\GitProject\Worker_Service_Dotnet\Src\Worker_Service\bin\Debug\net7.0\RabbitMQ.Client.dll

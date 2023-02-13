@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lZOGKAHa24gwhoD2H0RegQPdVHXujbSA3iFkwSk2jLYmDDTkwDimS+93j7EOivRVwYe4UEjAt0PFbumNaIkv0g==",
+  "dgSpecHash": "tU2vsXbah4ckdKRNPDbiicHYbTc5cCQQU6jwP5fN8xqVaT4s8yBtvps+WASnUI+Gmd9N481s3wa7RkOWjFZvVQ==",
   "success": true,
   "projectFilePath": "D:\\soheyl\\Git\\GitProject\\Worker_Service_Dotnet\\Src\\Worker_Service\\Worker_Service.csproj",
   "expectedPackageFiles": [
@@ -29,9 +29,12 @@
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\MSoheil\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\MSoheil\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

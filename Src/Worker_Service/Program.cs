@@ -7,7 +7,7 @@ Log.Logger = new LoggerConfiguration()
        .MinimumLevel.Debug()
        .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
        .Enrich.FromLogContext()
-       .WriteTo.File(Directory.GetCurrentDirectory() + @"Logfile.txt")
+       .WriteTo.File(@"D:\soheyl\Git\GitProject\Worker_Service_Dotnet\Src\Worker_Service\bin\Release\net7.0\publish\Logfile.txt")
        .CreateLogger();
 try
 {
@@ -26,6 +26,7 @@ finally
 }
 
 IHost host = Host.CreateDefaultBuilder(args)
+    .UseWindowsService()
     .ConfigureServices(services =>
     {
         services.AddHostedService<Worker>();

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lTkAkn1PggNJexepdYKzMdSk4c5GBYihRR2PV3KDKW/H5UFVyfjHnRs671ZG8+5yzsIjddShbIPsDK6m5vxPiQ==",
+  "dgSpecHash": "Xrsn4oNrKteSaM0fNBt1NQVP2zt1+izzQZ0+EMOTsl3LWYUZRypU7BNEiH+qpV24r/8z00G4VuXkR2qf/LG3nA==",
   "success": true,
   "projectFilePath": "D:\\soheyl\\Git\\GitProject\\Worker_Service_Dotnet\\Src\\Worker_Service\\Worker_Service.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.hosting\\7.0.0\\microsoft.extensions.hosting.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.hosting.windowsservices\\7.0.0\\microsoft.extensions.hosting.windowsservices.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.extensions.logging.configuration\\7.0.0\\microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
@@ -42,6 +43,7 @@
     "C:\\Users\\MSoheil\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.0\\system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\MSoheil\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
